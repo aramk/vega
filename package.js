@@ -8,7 +8,7 @@ Package.describe({
 
 Package.onUse(function (api) {
   api.versionsFrom('METEOR@0.9.0');
-  api.use('aramk:d3', 'client');
+  api.use('aramk:d3@3.4.13', 'client');
   api.export(['vg'], 'client');
   api.addFiles(['vega.js'], 'client');
 });
