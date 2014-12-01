@@ -1,7 +1,7 @@
 {
   "dependencies": [
     [
-      "aramk:d3",
+      "d3js:d3",
       "3.4.13"
     ],
     [
